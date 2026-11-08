@@ -1,3 +1,12 @@
+<!-- tacitus-fork-status -->
+> **Retained upstream research fork.** The original project is [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies).
+> This fork is preserved for inspection and evaluation. Benchmark or performance
+> claims in the upstream README below are upstream results, not new measurements
+> of this fork. No model evaluation or hosted acceptance was run in this review.
+> Original authorship and license terms remain in place.
+> Individual ontology sources retain their own licenses and applicability boundaries.
+<!-- /tacitus-fork-status -->
+
 <!-- mcp-name: io.github.fabio-rovai/open-ontologies -->
 
 <p align="center">
