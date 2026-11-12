@@ -100,6 +100,21 @@
 $ printf 'load base.ttl\nplan proposed.ttl\n' | open-ontologies batch -
 #   the whole change:  ex:hasParent rdfs:domain ex:Person
 
+<!-- tacitus-practical-entry -->
+## Purpose, code and a playable introduction
+
+Inspect reusable vocabulary and ontology tooling before selecting a narrowly scoped policy model with explicit source attribution.
+
+**Upstream evaluation fork.** Upstream ontology tooling fork. An imported vocabulary does not determine legal applicability or confer universal policy semantics.
+
+[Setup, code walkthrough, research & verification](TACITUS_GUIDE.md) · [Play the original 8-bit teaching adventure](tacitus-demo/index.html) · [Demo credits](tacitus-demo/CREDITS.md)
+
+![The original House of Evidence teaching adventure; synthetic case, separate from this project’s runtime](tacitus-demo/mansion.png)
+
+Research: [RAG](https://arxiv.org/abs/2005.11401), [long-context evidence use](https://arxiv.org/abs/2307.03172), [GraphRAG](https://arxiv.org/abs/2404.16130). [What TACITUS borrows, adds and still needs to measure](https://github.com/sargonxg/sargonxg/blob/main/docs/RESEARCH_AND_DESIGN.md).
+<!-- /tacitus-practical-entry -->
+
+
 added_classes         0
 removed_classes       0
 blast_radius          0 triples affected
